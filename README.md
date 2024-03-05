@@ -1,4 +1,7 @@
+# this is react app-
+# First setup reactJs.
 # after setup please, write on terminal, npm install for initilizing node modules, and install and setup some dependencies ( tailwindcss ).
+# after setup write npm start on terminal
 
 
 # Getting Started with Create React App
