@@ -1,3 +1,6 @@
+# after setup please, write on terminal, npm install for initilizing node modules, and install and setup some dependencies ( tailwindcss ).
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
